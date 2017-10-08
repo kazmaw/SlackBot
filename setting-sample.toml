@@ -1,0 +1,8 @@
+[common]
+interval = 1
+example_command = '教えて'
+
+[slack]
+api_token = 'XXXXXXXXXXXXXXXXXXXXXXXXX'
+bot_id = 'YYYYYYYYYYYYY'
+
